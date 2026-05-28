@@ -205,17 +205,14 @@ It also improved my ability to connect technical analysis with real business pro
 
 ## Live Dashboard
 
-You can explore the interactive Power BI dashboard directly below:
+You can explore the interactive Power BI dashboard here:
 
-[View Live Embedded Dashboard](https://itsdebis.github.io/Hospitality-Domain-Project/)
-
-Or access the Power BI service link directly:
-
-[View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3751830d01a40003dc5a)
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3751830d01a40003dc5a)
 
 ### Dashboard Preview
 
-[![Hospitality Dashboard](Hospitality%20Domain%20Project.png)](https://itsdebis.github.io/Hospitality-Domain-Project/)
+[![Hospitality Dashboard](Hospitality%20Domain%20Project.png)](https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3751830d01a40003dc5a)
+
 ---
 
 ## Project Outcome
