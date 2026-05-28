@@ -205,7 +205,19 @@ It also improved my ability to connect technical analysis with real business pro
 
 ## Live Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3751830d01a40003dc5a
+You can explore the interactive Power BI dashboard here:
+
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3751830d01a40003dc5a)
+
+### Embedded Dashboard Preview
+
+<iframe title="Hospitality Domain Dashboard"
+width="100%"
+height="650"
+src="https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3751830d01a40003dc5a"
+frameborder="0"
+allowFullScreen="true">
+</iframe>
 
 ---
 
