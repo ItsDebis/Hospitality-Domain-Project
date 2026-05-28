@@ -102,7 +102,7 @@ Main findings:
 - ADR remained almost constant despite higher demand
 - Dynamic pricing opportunities were being missed
 
-This suggested that the hotels were not adjusting room pricing effectively during peak demand periods.
+This suggested that hotels were not adjusting room pricing effectively during peak demand periods.
 
 ---
 
@@ -205,15 +205,7 @@ It also improved my ability to connect technical analysis with real business pro
 
 ## Live Dashboard
 
-Power BI Dashboard Link:
-
-https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
----
-
-## Dashboard Preview
-
-![Hospitality Dashboard](https://github.com/ItsDebis/Hospitality-Domain-Project-/blob/main/Hospitality%20Domain%20Project.png)
+https://app.powerbi.com/view?r=eyJrIjoiZTJjMDY5ZWQtYTg4MC00NGE2LTkxYzctNjM1ZGUyOWI4MGU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3751830d01a40003dc5a
 
 ---
 
